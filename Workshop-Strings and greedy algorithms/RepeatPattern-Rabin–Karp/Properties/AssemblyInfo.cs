@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("03_Trie")]
+[assembly: AssemblyTitle("RepeatPattern-Rabin–Karp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("03_Trie")]
+[assembly: AssemblyProduct("RepeatPattern-Rabin–Karp")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9c8f1c46-e2aa-471b-b06b-2ebb9c6aa184")]
+[assembly: Guid("542316bb-330a-4cde-861b-9d5d7dc1a7f2")]
 
 // Version information for an assembly consists of the following four values:
 //

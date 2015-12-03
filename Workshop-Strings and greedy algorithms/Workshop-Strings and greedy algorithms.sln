@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromize", "Palindromize\Palindromize.csproj", "{15F09B44-092E-4CD3-ACF0-DE74A9AE6CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatingPattern", "RepeatingPattern\RepeatingPattern.csproj", "{ED843793-5960-41FF-BC22-233AE6769AA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatPattern-Rabin–Karp", "RepeatPattern-Rabin–Karp\RepeatPattern-Rabin–Karp.csproj", "{542316BB-330A-4CDE-861B-9D5D7DC1A7F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F09B44-092E-4CD3-ACF0-DE74A9AE6CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F09B44-092E-4CD3-ACF0-DE74A9AE6CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F09B44-092E-4CD3-ACF0-DE74A9AE6CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F09B44-092E-4CD3-ACF0-DE74A9AE6CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED843793-5960-41FF-BC22-233AE6769AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED843793-5960-41FF-BC22-233AE6769AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED843793-5960-41FF-BC22-233AE6769AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED843793-5960-41FF-BC22-233AE6769AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{542316BB-330A-4CDE-861B-9D5D7DC1A7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542316BB-330A-4CDE-861B-9D5D7DC1A7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542316BB-330A-4CDE-861B-9D5D7DC1A7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542316BB-330A-4CDE-861B-9D5D7DC1A7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
